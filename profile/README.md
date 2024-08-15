@@ -1,4 +1,4 @@
-# GOOD TO TRAVAL!!
+# GOOD TO TRAVEL!!
 > 2024 관광데이터 활용 공모전 출품 예정
 ## 팀원 소개
 |Backend|Backend|Frontend|Frontend|AI|
